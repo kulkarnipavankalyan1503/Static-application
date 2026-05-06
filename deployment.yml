@@ -22,7 +22,7 @@ spec:
       containers:
       - name: ui-container
 
-        image: ui-app:latest
+        image: ui-image:latest
 
         imagePullPolicy: Always
 
